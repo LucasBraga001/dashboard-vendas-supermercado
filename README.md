@@ -38,4 +38,4 @@ Criar um dashboard que auxilie na **visualização do desempenho de vendas**, id
 - Kevin Morales Farah
 
 ## 🎥 Link da Apresentação
-[Insira aqui o link do vídeo no YouTube, Google Drive ou outro]
+https://www.youtube.com/watch?v=FSsVGDVE8SA
